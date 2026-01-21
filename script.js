@@ -62,8 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
             addMyTaskButton.click(); // Simulate a click on the add button
         }
     });
-
-    // You could add some initial tasks here for testing if you like:
+ 
     // taskList.appendChild(createTaskElement('Learn JavaScript'));
     // taskList.appendChild(createTaskElement('Build a Task Manager'));
     // taskList.appendChild(createTaskElement('Go to GitHub'));
